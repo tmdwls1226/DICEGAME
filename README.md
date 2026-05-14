@@ -66,7 +66,7 @@ src
     └── DiceArt.java
 
 
-<img width="786" height="506" alt="image" src="https://github.com/user-attachments/assets/dedb6627-d586-4c8f-a443-cd19633a40df" />
+
 
 
 
