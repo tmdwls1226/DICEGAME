@@ -18,13 +18,21 @@
 
 
 🛠️사용 기술
+
 Java
+
 Object-Oriented Programming (OOP)
+
 Interface
+
 Custom Exception
+
 Random
+
 Switch Expression
+
 ASCII Console UI
+
 
 
 🏢프로젝트 구조
@@ -42,6 +50,8 @@ src
 └── util
     └── DiceArt.java
 
+📺실행화면 예시
+<img width="246" height="111" alt="스크린샷 2026-05-14 140429" src="https://github.com/user-attachments/assets/1a5920f0-c483-4391-af13-7c40b2437fa7" />
 
 
     
