@@ -54,17 +54,29 @@ ASCII Console UI
 🏢프로젝트 구조
 src
 ├── main
+
 │   └── Main.java
+
 ├── game
+
 │   └── Game.java
+
 ├── player
+
 │   └── Player.java
+
 ├── interfaces
+
 │   └── Calculatable.java
+
 ├── exception
+
 │   └── DiceCalculationException.java
+
 └── util
+
     └── DiceArt.java
+    
 
 
 
@@ -103,7 +115,9 @@ https://github.com/user-attachments/assets/b25df0b7-9e78-4aaf-9d65-da99ccc805fb
 
 🛠️Exception 처리
 DiceCalcaulationException : 연산오류 및 잘못된 계산상황 처리
+
 InvalidInputException : 잘못된 사용자 입력 및 메뉴선택 검증 
+
 
 사용자 정의  예외처리와  try-catch문을 활용하여 프로그램 안정성을 향상시켰다.
 
